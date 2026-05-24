@@ -64,10 +64,15 @@ Relational Mapping
 The main objectives of this project are:
 
 ✅ Analyze music sales performance
+
 ✅ Identify top customers
+
 ✅ Find the most popular music genres
+
 ✅ Determine best-performing artists
+
 ✅ Analyze country-wise revenue
+
 ✅ Generate business insights using SQL queries
 
 🔍 SQL Concepts Used
@@ -174,7 +179,3 @@ Data Analyst roles
 Business Intelligence roles
 SQL Developer interviews
 Data Science internships
-
-⭐ Repository Link
-
-Open Musical Store Project on GitHub
